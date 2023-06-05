@@ -1,2 +1,3 @@
-# colab_sample
-AI講座のサンプルコード
+# BERT_Ssample
+BERTファインチューニングのサンプル
+LivedoorNewsの分類問題に適用してみた。
